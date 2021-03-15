@@ -8,8 +8,11 @@ The way to send the attachment is done through actions with the Mouse,
 so if or if the macro should run the WhatsApp application in the foreground
 
 --- NOTE: You must have the WhatsApp application in full screen
-The way it works for me is by opening the Whatsapp app and then minimizing it before running the macro
+The way it works for me is by opening the Whatsapp app and then minimizing it before running the macro. 
+It is important that you always do this
 
 The Macro have TimeWaits, if you want, you can change the TimeWaits, I used 1 or 2 seconds
+
+VIDEO: You can see my video explaining the process (The video is in Spanish)
 
 If You are any question, send me a Email to andresroblew@gmail.com
