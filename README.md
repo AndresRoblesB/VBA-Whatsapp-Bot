@@ -1,4 +1,6 @@
 # VBA-Whatsapp-Bot
+NOTE: This is only educational, avoid sending messages to many people
+
 This Excel allows send massive messages to Whatsapp with a attachment only with Windows
 
 
